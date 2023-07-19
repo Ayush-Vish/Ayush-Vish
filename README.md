@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Vishwakarma</h1>
-<h3 align="center">A passionate MERN developer from Indian Institute of Information Technology Gwalior</h3>
+<h3 align="center">A passionate MERN developer from IIITM Gwalior</h3>
 
 - 🌱 I’m currently learning **React.js, Express.js, Node.js**
 
