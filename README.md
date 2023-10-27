@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ayush Vishwakarma</h1>
 <h3 align="center">A Passionate Person</h3>
 
-- 🌱 I’m currently learning **React.js, Express.js, Node.js**
+- 🌱 I’m currently learning **Typescript and Go language**
 
-- 💬 Ask me about **Express ,REACT.JS**
+- 💬 Ask me about ** Web Development **
 
 - 📫 How to reach me **ayushvish6555@gmail.com**
 
+ ## Projects:  
+
+- LinkShort ( A Url Shortener ) : [Click here ]( https://linkshort-bay.vercel.app/ )
+- BRAND (A Blogging Website) : [Click here] ( https://rituraj12797.github.io/FRONTEND/ )
+- POKEDEX  ( Index of Pokemons) : [Click here ]   ( https://hilarious-caramel-5bd052.netlify.app/ )
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-vishwakarma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-vishwakarma1" height="30" width="40" /></a>
