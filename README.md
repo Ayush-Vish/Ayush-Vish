@@ -9,9 +9,10 @@
 
  ## Projects:  
 
-- LinkShort ( A Url Shortener ) : [Click here ]( https://linkshort-bay.vercel.app/ )
-- BRAND (A Blogging Website) : [Click here] ( https://rituraj12797.github.io/FRONTEND/ )
-- POKEDEX  ( Index of Pokemons) : [Click here ]   ( https://hilarious-caramel-5bd052.netlify.app/ )
+- LinkShort ( A Url Shortener ) : [Click here ]( https://linkshort-bay.vercel.app/)
+
+- BRAND (A Blogging Website) :  [Click here](https://rituraj12797.github.io/FRONTEND/)
+- POKEDEX  ( Index of Pokemons) : [Click here]( https://hilarious-caramel-5bd052.netlify.app/)
   
   
 <h3 align="left">Connect with me:</h3>
