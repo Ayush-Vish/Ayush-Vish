@@ -27,3 +27,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-vish&show_icons=true&locale=en&layout=compact" alt="ayush-vish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-vish&" alt="ayush-vish" /></p>
+
+[![An image of @ayushvish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushvish)](https://holopin.io/@ayushvish)
