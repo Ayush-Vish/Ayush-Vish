@@ -8,7 +8,11 @@
 - 📫 How to reach me **ayushvish6555@gmail.com**
 
 ### cd Ayush-Portfolio  <button padding="2px" ><a>Enter</a></button>
-
+<p align="center>```bash
+ cd Ayush-Portfolio
+ ```
+ [Enter](https://ayush-vish-portfolio.vercel.app/)
+</p>
  ## Projects:  
 
 - LinkShort ( A Url Shortener ) : [Click here ]( https://linkshort-bay.vercel.app/)
