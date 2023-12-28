@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ** Go lang **
 
-- 💬 Ask me about ** Web Development **
+- 💬 Ask me about ** MERN **
 
 - 📫 How to reach me **ayushvish6555@gmail.com**
   
