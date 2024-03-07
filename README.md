@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Vishwakarma</h1>
 <h3 align="center">A Passionate Person</h3>
-
+<h4 align="center" > Currently a Student at IIIT Gwalior </h4>
 - 🌱 I’m currently learning ** Go lang **
 
 - 💬 Ask me about ** MERN **
