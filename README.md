@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Vishwakarma</h1>
-<h3 align="center">A Passionate Person</h3>
 <h4 align="center" > Currently a Student at IIIT Gwalior </h4>
-- 🌱 I’m currently learning ** Go lang **
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 💬 Ask me about ** MERN **
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ayushvish6555@gmail.com**
   
