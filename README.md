@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Vishwakarma</h1>
 <h4 align="center" > Currently a Student at IIIT Gwalior </h4>
-- 🌱 I’m currently learning **Cloud Technologies**
+- 🌱 I’m currently learning ``Cloud Technologies````
 
 - 💬 Ask me about **MERN**
 
