@@ -25,7 +25,7 @@
 
  ## Projects:  
  
-- Communet (Extenstion and Microservices Server): [Click Here](https://github.com/Commu-net/)
+- Communet (Extension and Microservices Server): [Click Here](https://github.com/Commu-net/)
 - Boom (Meet Clone using WebRtc): [Backend](https://github.com/Ayush-Vish/meet_backend) [Frontend](https://github.com/Ayush-Vish/parichay_frontend)
 - LinkShort ( A Url Shortener ) : [Click here ]( https://linkshort-bay.vercel.app/)
 - EdTech Website: [Click here](https://lms-frontend-opal.vercel.app/)
