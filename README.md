@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayush Vishwakarma</h1>
+
 <h4 align="center" > Currently a Student at IIIT Gwalior </h4>
 
-- 🌱 I’m currently learning ``Cloud Technologies``
+<h4 align="center" > I Ship Web Apps </h4>
+
+- 🌱 I’m currently learning ``Cloud Technologies`` and ``DevOps``
 
 - 💬 Ask me about **MERN**
 
