@@ -15,8 +15,7 @@
 ## Just hit this command in your terminal to see my portfolio. 
 
 ```bash
-npx ayush-vish
-  
+      npx ayush-vish
 ```
 
 
