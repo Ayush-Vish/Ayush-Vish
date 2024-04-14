@@ -2,7 +2,7 @@
 
 <h4 align="center" > Currently a Student at IIIT Gwalior </h4>
 
-<h4 align="center" > I Ship <span font="bold"> `Web Apps`  </span>  </h4>
+<h4 align="center" > I Ship <span font="bold"> Web Apps  </span>  </h4>
 
 - 🌱 I’m currently learning ``Cloud Technologies`` and ``DevOps``
 
