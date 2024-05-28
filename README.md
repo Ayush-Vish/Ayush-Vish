@@ -9,6 +9,8 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ayushvish6555@gmail.com**
+
+- BTW, I use **Linux**
   
 <h1 align="center" > cd <a href="https://ayush-vish-portfolio.vercel.app/" target="blank"> Ayush-Portfolio </a>  </h1>
 
