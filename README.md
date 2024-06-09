@@ -12,13 +12,7 @@
 
 - BTW, I use **Linux**
   
-<h1 align="center" > cd <a href="https://ayush-vish-portfolio.vercel.app/" target="blank"> Ayush-Portfolio </a>  </h1>
 
-## Just hit this command in your terminal to see my portfolio. 
-
-```
-      npx ayush-vish
-```
 
 
 ## Experience 
