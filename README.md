@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-vish" alt="manishprivet" /> </p>
 <h1 align="center">Hi 👋, I'm Ayush Vishwakarma</h1>
 
 <h4 align="center" > Currently a Student at IIIT Gwalior </h4>
@@ -14,9 +15,8 @@
   
 
 
-<p align="center"> <a href="https://git.io/streak-stats"><img alt="Ayush-vish Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Ayush-Vish&theme=onedark&hide_border=true" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-vish" alt="manishprivet" /> </p>
+
 
 
 
