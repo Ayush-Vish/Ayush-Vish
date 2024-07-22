@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-vish" alt="manishprivet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-vish" alt="ayush-vish" /> </p>
 <h1 align="center">Hi 👋, I'm Ayush Vishwakarma</h1>
 
 <h4 align="center" > Currently a Student at IIIT Gwalior </h4>
