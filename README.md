@@ -32,5 +32,3 @@
 <a href="https://www.leetcode.com/ayushv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushv1" height="30" width="40" /></a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-vish&show_icons=true&locale=en&layout=compact" alt="ayush-vish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-vish&" alt="ayush-vish" /></p>
