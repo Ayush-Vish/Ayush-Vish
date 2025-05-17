@@ -5,7 +5,6 @@
 
 <h4 align="center" > I Ship <span font="bold"> Web Apps  </span>  </h4>
 
-- 🌱 I’m currently learning System Design and Design Patterns.
 - ❤️ I love Python and Javascript.
 - 📫 How to reach me **ayushvish6555@gmail.com**
 
