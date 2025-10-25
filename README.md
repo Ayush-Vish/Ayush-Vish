@@ -5,8 +5,12 @@
 
 <h4 align="center" > I Ship <span font="bold"> Web Apps  </span>  </h4>
 
-- ❤️ I love Python and Javascript.
+
+
+- ❤️ I love Go and JavaScript.
 - 📫 How to reach me **ayushvish6555@gmail.com**
+- ⚙️ Enthusiastic about **Distributed Systems** and building scalable backend architectures.
+
 
 ## Experience 
 
@@ -15,6 +19,9 @@
 
 
  ## Projects:  
+-  ShellSync A real-time collaborative SSH terminal built with Go, gRPC, WebSocket, and React.  
+  Enables multiple users to share and interact with terminal sessions directly in the browser.  
+  [🔗 Repository](https://github.com/Ayush-Vish/shellsync)
 - Context Aware Firewall (Software that blocks the Traffic on a PC which the Central Admin Dashboard controls) [Link](https://github.com/Ayush-Vish/SIH-Context-Aware-Firewall)
 - RuralSync (A SAAS Website for Local Vendors to provide their Services to Villagers) (Microservices Server and Agent and Service Provider Frontend  ): [Backend](https://github.com/Ayush-Vish/RuralSync-API) [Agent](https://github.com/Ayush-Vish/Agent-RuralSync) [Service Provider](https://github.com/Ayush-Vish/service-provider-ruralsync)
 - Communet (A Web Extension to scrap the Email of the LinkedIn user and a Server to  ) (Extension and Microservices Server): [Click Here](https://github.com/Commu-net/)
