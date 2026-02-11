@@ -41,6 +41,10 @@
 
 - **[Pokedex](https://hilarious-caramel-5bd052.netlify.app/)** — Because knowing only Pikachu is scientifically unacceptable.
 
+# Publications
+- **[Hybrid Cyclostationary and Machine Learning-Driven Spectrum Access in Downlink NOMA: Detection and Throughput Optimization](https://ieeexplore.ieee.org/document/11373298)**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-vishwakarma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-vishwakarma1" height="30" width="40" /></a>
