@@ -21,71 +21,78 @@
 
 ## 🚀 Projects
 
-- ☁️ **[CloudSync](https://github.com/Ayush-Vish/Cloudsync)** — A distributed storage cloud where users lend disk space to form a decentralized file system with in-memory metadata and gRPC pipelined replication.
+- ☁️ **CloudSync**  
+  Distributed storage cloud forming a decentralized file system with in-memory metadata and gRPC pipelined replication.  
+  🔗 <a href="https://github.com/Ayush-Vish/Cloudsync">Repository</a>
 
-- 🖥 **[ShellSync](https://github.com/Ayush-Vish/shellsync)** — A real-time collaborative terminal where others can watch you type commands live.
+- 🖥 **ShellSync**  
+  Real-time collaborative terminal where others can watch commands live.  
+  🔗 <a href="https://github.com/Ayush-Vish/shellsync">Repository</a>
 
----
+- 🏡 **RuralSync (Monolith Architecture)**  
+  Village marketplace powered by a single backend serving multiple user interfaces.  
+  🔗 <a href="https://github.com/Ayush-Vish/RuralSync-Backend">Backend</a> •  
+  <a href="https://github.com/Ayush-Vish/RuralSync">Client Repo</a> •  
+  <a href="https://ruralsync.vercel.app">Client Live</a> •  
+  <a href="https://agent-rural-sync.vercel.app">Agent Dashboard</a> •  
+  <a href="https://ruralsync-service-provider.vercel.app">Provider Dashboard</a>
 
-### 🏡 RuralSync (Monolith Architecture)
-A village marketplace built as a single backend powering multiple user interfaces.
+- 🧩 **RuralSync (Microservices Architecture)**  
+  Marketplace redesigned into scalable services, queues, and containerized components.  
+  🔗 <a href="https://github.com/Ayush-Vish/RuralSync-Microservice">Repository</a>
 
-🔧 Backend: https://github.com/Ayush-Vish/RuralSync-Backend  
+- 🔥 **Context Aware Firewall**  
+  Remote control system for blocking domains, IPs, ports, and suspicious processes.  
+  🔗 <a href="https://github.com/Ayush-Vish/SIH-Context-Aware-Firewall">Repository</a>
 
-🌐 Client App (Live): https://ruralsync.vercel.app  
-💻 Client Repo: https://github.com/Ayush-Vish/RuralSync  
+- 🕵️ **Communet**  
+  Full-stack application performing LinkedIn email discovery.  
+  🔗 <a href="https://github.com/Commu-net/">Repository</a>
 
-🌐 Agent Dashboard (Live): https://agent-rural-sync.vercel.app  
-⚙️ Agent Repo: https://github.com/Ayush-Vish/Agent-RuralSync  
+- 🎥 **Boom (WebRTC Meet Clone)**  
+  Real-time meeting platform built using WebRTC.  
+  🔗 <a href="https://github.com/Ayush-Vish/meet_backend">Backend</a> •  
+  <a href="https://github.com/Ayush-Vish/parichay_frontend">Frontend</a>
 
-🌐 Service Provider Dashboard (Live): https://ruralsync-service-provider.vercel.app  
-🛠 Provider Repo: https://github.com/Ayush-Vish/Service-provider-ruralsync  
+- 🔗 **LinkShort**  
+  URL shortener with instant redirects.  
+  🔗 <a href="https://linkshort-bay.vercel.app/">Live Demo</a>
 
----
+- 🎓 **EdTech LMS**  
+  Learning platform for course delivery and exam management.  
+  🔗 <a href="https://lms-frontend-opal.vercel.app/">Live Demo</a>
 
-### 🧩 RuralSync (Microservices Architecture)
-Marketplace redesigned into scalable services, queues, and containers.
+- ✍️ **BRAND**  
+  Blogging platform for publishing ideas and articles.  
+  🔗 <a href="https://rituraj12797.github.io/FRONTEND/">Live Demo</a>
 
-🔗 Repo: https://github.com/Ayush-Vish/RuralSync-Microservice
-
----
-
-- 🔥 **[Context Aware Firewall](https://github.com/Ayush-Vish/SIH-Context-Aware-Firewall)** — Remote domain/IP/process blocking across devices.
-
-- 🕵️ **[Communet](https://github.com/Commu-net/)** — A full stack app that performs LinkedIn email discovery.
-
-- 🎥 **[Boom](https://github.com/Ayush-Vish/meet_backend)** — WebRTC meet clone.  
-  ↳ [Frontend](https://github.com/Ayush-Vish/parichay_frontend)
-
-- 🔗 **[LinkShort](https://linkshort-bay.vercel.app/)** — URL shortener with instant redirects.
-
-- 🎓 **[EdTech LMS](https://lms-frontend-opal.vercel.app/)** — Learning platform with course & exam management.
-
-- ✍️ **[BRAND](https://rituraj12797.github.io/FRONTEND/)** — Blogging platform.
-
-- ⚡ **[Pokedex](https://hilarious-caramel-5bd052.netlify.app/)** — Pokémon explorer app.
+- ⚡ **Pokedex**  
+  Pokémon explorer web application.  
+  🔗 <a href="https://hilarious-caramel-5bd052.netlify.app/">Live Demo</a>
 
 ---
 
 ## 🌍 Open Source Contributions
 
-- 🤝 Contributor to **[PeerSky Browser](https://github.com/p2plabsxyz/peersky-browser/)** — A decentralized P2P browser with IPFS, Hypercore, and BitTorrent protocol support.
+- 🤝 **PeerSky Browser**  
+  Decentralized P2P browser supporting IPFS, Hypercore & BitTorrent protocols.  
+  🔗 <a href="https://github.com/p2plabsxyz/peersky-browser/">Project</a>
 
 ---
 
 ## 📄 Publications
 
 - 📡 **Hybrid Cyclostationary and Machine Learning-Driven Spectrum Access in Downlink NOMA: Detection and Throughput Optimization**  
-  🏛 *IEEE Wireless Communications Letters*  
-  🔗 https://ieeexplore.ieee.org/document/11373298
+  🏛 <i>IEEE Wireless Communications Letters</i>  
+  🔗 <a href="https://ieeexplore.ieee.org/document/11373298">Read Paper</a>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/ayush-vishwakarma1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://linkedin.com/in/ayush-vishwakarma1" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
