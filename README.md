@@ -7,7 +7,8 @@
 <h4 align="center">Final Year Student at IIIT Gwalior</h4>
 
 - I love C++, Go and JS  
-- How to reach me **work.ayush.vish@gmail.com** - Enthusiastic about **Distributed Systems** and building scalable backend architectures  
+- How to reach me **work.ayush.vish@gmail.com**
+- Enthusiastic about **Distributed Systems** and building scalable backend architectures  
 
 ---
 
