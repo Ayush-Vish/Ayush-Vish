@@ -37,8 +37,12 @@ I build high-performance systems using Go, C++, and TypeScript. Focused on distr
 
 ## Projects
 
-### ⚙️ Distributed Systems & Infrastructure
+### 🤖 AI Agents & Automation
 
+- **ScholarSync** — Messaging-first AI academic agent · accepts prompts, PDFs & images via **Telegram & WhatsApp** · agentic task classification with self-describing tool plugins · Docker-backed sandboxed execution for Python, Node.js, Bash, C, C++, Java & LaTeX · automates **Google Classroom** submissions with Drive uploads · includes reminders, todos, expense tracking, and persistent chat sessions
+  [`repo`](https://github.com/Ayush-Vish/scholarsync)
+
+### ⚙️ Distributed Systems & Infrastructure
 
 
 - **CloudSync** — GFS-inspired storage · 100M+ chunks · 6.4PB capacity · WAL crash recovery · gRPC pipelined replication
