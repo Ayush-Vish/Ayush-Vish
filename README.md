@@ -39,8 +39,7 @@ I build high-performance systems using Go, C++, and TypeScript. Focused on distr
 
 ### ⚙️ Distributed Systems & Infrastructure
 
-- **DbSync** — C++20 sharded key-value store · 394K+ RPS · sub-0.38ms P99 · io_uring · outperforms Redis & DragonflyDB
-  [`repo`](https://github.com/Ayush-Vish/DbSync)
+
 
 - **CloudSync** — GFS-inspired storage · 100M+ chunks · 6.4PB capacity · WAL crash recovery · gRPC pipelined replication
   [`repo`](https://github.com/Ayush-Vish/Cloudsync)
