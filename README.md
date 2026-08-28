@@ -44,6 +44,9 @@ I build high-performance systems using Go, C++, and TypeScript. Focused on distr
 
 ### ⚙️ Distributed Systems & Infrastructure
 
+- **DbSync** — High-performance shared-nothing key-value cache built in C++20 · lock-free concurrency · asynchronous I/O · zero-copy RESP parser · per-thread object pooling · non-blocking AOF persistence with Linux io_uring
+  [`repo`](https://github.com/Ayush-Vish/DbSync)
+  
 
 - **CloudSync** — GFS-inspired storage · 100M+ chunks · 6.4PB capacity · WAL crash recovery · gRPC pipelined replication
   [`repo`](https://github.com/Ayush-Vish/Cloudsync)
