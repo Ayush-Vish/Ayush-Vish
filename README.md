@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:work.ayush.vish@gmail.com">📧 ayushvish6555@gmail.com</a> &nbsp;·&nbsp;
+  <a href="mailto:ayushvish6555@gmail.com">📧 ayushvish6555@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/ayush-vishwakarma1">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://ayushvish.tech">ayushvish.tech</a>
 </p>
@@ -41,6 +41,8 @@ I build high-performance systems using Go, C++, and TypeScript. Focused on distr
 
 - **ScholarSync** — Messaging-first AI academic agent · accepts prompts, PDFs & images via **Telegram & WhatsApp** · agentic task classification with self-describing tool plugins · Docker-backed sandboxed execution for Python, Node.js, Bash, C, C++, Java & LaTeX · automates **Google Classroom** submissions with Drive uploads · includes reminders, todos, expense tracking, and persistent chat sessions
   [`repo`](https://github.com/Ayush-Vish/scholarsync)
+- **MediRagAgent** — Stateful multi-agent medical assistant · LangGraph + FastAPI · confidence-based routing, agent handoffs & human-in-the-loop physician verification · agentic RAG with Docling multimodal extraction, Qdrant hybrid search & TinyBERT cross-encoder reranking · PyTorch vision models for brain tumor detection, chest X-ray classification & skin lesion segmentation
+  [`repo`](https://gitlab.com/Ayush-Vish/mediragagent)
 
 ### ⚙️ Distributed Systems & Infrastructure
 
